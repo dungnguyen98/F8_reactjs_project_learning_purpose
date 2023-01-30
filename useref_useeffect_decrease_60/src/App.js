@@ -16,6 +16,7 @@ function App() {
 
   useEffect(() => {
     preCount.current = count
+    console.log("Inside useEffect: ", count)
   }, [count])
 
   const handleStart = () => {
