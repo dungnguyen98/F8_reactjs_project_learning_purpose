@@ -1,0 +1,2 @@
+Đặt tên file là .module.css, webpack tự động config cho chúng ta, để đổi tên className thành một className khác.
+Trong file index.js, chúng ta sử dụng className là `{styles.paragraph}`

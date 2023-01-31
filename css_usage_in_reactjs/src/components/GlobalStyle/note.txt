@@ -1,0 +1,1 @@
+<GlobalStyle> được sử dụng để ôm cả trang. Qua đó, chúng ta sẽ sử dụng css chung cho các elements 

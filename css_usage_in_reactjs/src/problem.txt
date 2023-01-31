@@ -1,0 +1,6 @@
+problem:
+file index.js trong thư mục src ôm cả ứng dụng, do đó sẽ xuất hiện hiện tượng các element trùng tên class, dẫn đến conflict.
+css module có thể giải quyế t vấn đề này.
+
+solution:
+sử dụng css.module
