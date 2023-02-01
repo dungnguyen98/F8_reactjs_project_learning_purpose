@@ -7,6 +7,7 @@ import { useEffect, useState } from "react"
 // - Chỉ gọi callback 1 lần sau khi component mounteđ
 // 3. useEffect(callback, [dependencies])
 // - callback sẽ được gọi mỗi khi dependencies thay đổi
+
 // all 
 // 1. callback luôn được gọi sau khi component mounted
 // 2. cleanup function luôn được gọi trước khi component unmounted
