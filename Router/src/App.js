@@ -6,7 +6,7 @@ import Blogs from "./pages/Blogs";
 import Contact from "./pages/Contact";
 import NoPage from "./pages/NoPage";
 
-export default function App() {
+function App() {
   return (
     <BrowserRouter>
       <Routes>
@@ -21,5 +21,4 @@ export default function App() {
   );
 }
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<App />);
+export default App
